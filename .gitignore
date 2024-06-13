@@ -1,0 +1,4 @@
+/build
+/cmake-build*
+cmake_options.texi
+result.msh
